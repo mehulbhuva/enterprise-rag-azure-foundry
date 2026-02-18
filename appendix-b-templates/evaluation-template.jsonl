@@ -1,0 +1,2 @@
+{"question_id": "Q001", "question": "How many vacation days?", "gold_answer": "15 days annually", "relevant_chunks": ["C001", "C002"], "expert_score": null}
+{"question_id": "Q002", "question": "Remote work policy?", "gold_answer": "3 days/week max", "relevant_chunks": ["C010"], "expert_score": null}

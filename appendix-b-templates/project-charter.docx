@@ -1,0 +1,28 @@
+
+# RAG Project Charter Template
+
+## Business Justification
+[Describe business problem and ROI]
+
+Time saved: ____ hours/week
+Tickets reduced: ____ /month
+Accuracy improvement: ____%
+
+## Success Criteria
+P95 latency < ___ seconds
+User satisfaction > ___%
+Cost < $___ /query
+
+## Timeline
+Phase 1 Pilot: [Start] - [End]
+Phase 2 Expand: [Start] - [End]
+Phase 3 Scale: [Start] - [End]
+
+## Stakeholders
+Sponsor: ____________________
+Tech Lead: __________________
+Content Owner: ______________
+Security: ___________________
+
+## Risks & Mitigations
+Risk: ______________________ | Mitigation: _____________________

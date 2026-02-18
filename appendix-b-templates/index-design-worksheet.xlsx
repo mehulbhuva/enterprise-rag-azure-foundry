@@ -1,0 +1,14 @@
+
+Index Name: _______________________
+
+Content Sources:
+□ Blob Storage: ____________________
+□ SharePoint: _____________________
+□ Update Freq: ____________________
+
+Key Metadata Fields:
+Field Name | Type | Filterable | Facetable | Example
+-----------|------|------------|-----------|-------
+department | String | ✓ | ✓ | HR
+region | String | ✓ | ✓ | NA
+access_groups | String[] | ✓ | | ["hr-read"]

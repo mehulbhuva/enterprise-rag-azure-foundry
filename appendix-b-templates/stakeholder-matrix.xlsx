@@ -1,0 +1,9 @@
+
+Stakeholder Matrix
+
+Power/Interest | High Power High Interest | High Power Low Interest | Low Power High Interest | Low Power Low Interest
+---------------|--------------------------|-------------------------|------------------------|-------------------------
+HR VP          | Exec sponsor             |                         |                        | 
+Dev Team Lead  |                         | Dept head               |                        | 
+Power Users    |                         |                         | Early adopters         | 
+General Staff  |                         |                         |                        | Casual users
