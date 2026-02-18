@@ -1,0 +1,5 @@
+azure-functions==1.18.0
+azure-search-documents==11.5.0b1
+azure-identity==1.17.1
+openai==1.35.0
+msal==1.29.0

@@ -1,0 +1,12 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "searchServiceName": { "value": "srch-enterprise-rag" },
+    "storageAccountName": { "value": "stenterpriserag" },
+    "functionAppName": { "value": "fn-enterprise-rag" },
+    "openAiEndpoint": { "value": "https://<your-openai>.openai.azure.com/" },
+    "openAiKey": { "value": "<your-openai-key>" },
+    "searchKey": { "value": "<your-search-key>" }
+  }
+}
