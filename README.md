@@ -1,3 +1,4 @@
+Appendix A
 | File                    | Purpose                                           |
 | ----------------------- | ------------------------------------------------- |
 | README.md               | Quickstart + deploy instructions                  |
@@ -29,3 +30,23 @@ Deploy API: cd api && func azure functionapp publish <your-fn-name>
 Upload docs to Blob container knowledge
 
 Test: POST /api/chat {"question": "What is the refund policy?"}
+
+Appendix B
+| File                             | Format   | Use Case           |
+| -------------------------------- | -------- | ------------------ |
+| README.md                        | Markdown | Quick overview     |
+| project-charter.docx             | Word     | Executive approval |
+| index-design-worksheet.xlsx      | Excel    | Schema planning    |
+| security-review-checklist.md     | Markdown | Security sign‑off  |
+| deployment-checklist.md          | Markdown | Go‑live readiness  |
+| evaluation-template.jsonl        | JSONL    | QA testing         |
+| stakeholder-matrix.xlsx          | Excel    | Change management  |
+| prompt-library.md                | Markdown | Prompt engineering |
+| content-classification-policy.md | Markdown | Governance         |
+
+1. Download ZIP → Extract
+2. Print checklists (Markdown → PDF)
+3. Fill Excel worksheets
+4. Copy JSONL for evals
+5. Customize Word templates
+
